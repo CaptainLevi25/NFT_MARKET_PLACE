@@ -22,7 +22,7 @@ module.exports = {
     },
     sepolia : {
       url: 'https://rpc.ankr.com/eth_sepolia',
-      accounts: ["0x4c25e12507cd9673521f1f22f33d6eedd51446c56290bdd38bc05ae691ccf4b9"]
+      accounts: [""]
     }
    
   },
